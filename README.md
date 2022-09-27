@@ -13,7 +13,7 @@ tour
 ├── go.sum
 ├── internal
 │   └── word
-│       └── word.go	#转换逻辑代码
+│       └── word.go	#子命令转换逻辑代码
 └── main.go
 ```
 

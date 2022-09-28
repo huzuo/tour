@@ -14,4 +14,5 @@ func init() {
 	rootCmd.AddCommand(timeCmd)
 	rootCmd.AddCommand(nowTimeCmd)
 	rootCmd.AddCommand(caclulateTimeCmd)
+	rootCmd.AddCommand(cpuCmd)
 }
